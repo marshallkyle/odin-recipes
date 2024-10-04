@@ -9,5 +9,7 @@ intriguing is now I can understand how websites work, like when u press f12
 and look how its built. it's actually really fun lol
 
 (ok i just realized it explicitly said "(You can also do this as a
-self-reflection at the end of the project)". i havent made the project yet
+self-reflection at the end of the project)". i haven't made the project yet
 lol. ill be back here again!)
+
+test123
